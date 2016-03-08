@@ -32,7 +32,7 @@
     <script>
       $(window).scroll(function () {
           $('[id^="land"]').each(function () {
-            if (($(this).offset().top - $(window).scrollTop()) < -200) {
+            if (($(this).offset().top - $(window).scrollTop()) < -800) {
               $(this).stop().fadeTo(600,0);
             } else {
               $(this).stop().fadeTo('fast',1);
