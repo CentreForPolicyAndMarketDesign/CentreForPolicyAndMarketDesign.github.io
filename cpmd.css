@@ -1133,7 +1133,7 @@ img {
   border-radius: 5px;
 }
 .img-thumbnail {
-  padding: 4px;
+  padding: 12px;
   line-height: 1.42857143;
   background-color: #ffffff;
   border: 1px solid #dddddd;
@@ -4886,7 +4886,7 @@ a.badge:focus {
 }
 .thumbnail {
   display: block;
-  padding: 4px;
+  padding: 12px;
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #ffffff;
@@ -6783,4 +6783,8 @@ body {
 .cpmd-intro {
   background: rgba(255, 255, 255, 0.7);
   padding: 25px;
+}
+.ccwwindow {
+  box-shadow: -4px 12px 6px -6px #000000;
+  border: 1px solid grey;
 }
