@@ -6777,8 +6777,7 @@ body {
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
 .fadebox {
-  background: white;
-  opacity: 0.4;
+  margin: 12px;
 }
 .cpmd-intro {
   background: rgba(255, 255, 255, 0.7);
